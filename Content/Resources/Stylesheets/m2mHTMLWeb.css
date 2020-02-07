@@ -1,0 +1,2718 @@
+@namespace MadCap url(http://www.madcapsoftware.com/Schemas/MadCap.xsd);
+/*<meta />*/
+
+p
+{
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	font-family: Tahoma;
+	font-family: Tahoma, Webdings, Webdings, Webdings, Webdings, Webdings, Webdings, Webdings, Webdings, Webdings, Webdings, Arial, Helvetica, sans-serif;
+	text-align: left;
+	margin-top: 6pt;
+	margin-bottom: 0pt;
+	font-size: 10pt;
+}
+
+li
+{
+	font-family: Tahoma;
+	font-family: Tahoma, Webdings, Webdings, Webdings, Webdings, Webdings, Webdings, Webdings, Webdings, Webdings, Webdings, Arial, Helvetica, sans-serif;
+	text-align: left;
+	font-size: 10pt;
+}
+
+h1
+{
+	text-align: left;
+	font-family: Tahoma;
+	color: #000000;
+	margin: 0px;
+	padding-top: 10px;
+	font-weight: normal;
+	font-size: 24pt;
+	margin-top: 24.00pt;
+	margin-bottom: 24.00pt;
+}
+
+li.mc-H1
+{
+	text-align: left;
+	font-family: Tahoma;
+	font-weight: bold;
+	font-size: 10pt;
+}
+
+h2
+{
+	text-align: left;
+	font-family: Tahoma;
+	font-weight: normal;
+	margin-top: 24pt;
+	font-size: 20pt;
+	margin-bottom: 24pt;
+}
+
+li.mc-H2
+{
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	font-weight: bold;
+}
+
+h3
+{
+	text-align: left;
+	font-family: Tahoma;
+	font-weight: normal;
+	font-size: 16pt;
+	margin-top: 24.00pt;
+	margin-bottom: 24.00pt;
+}
+
+li.mc-H3
+{
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	font-weight: bold;
+}
+
+h4
+{
+	margin-top: 6.00pt;
+	margin-bottom: 2.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	font-weight: bold;
+}
+
+li.mc-H4
+{
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	font-weight: bold;
+}
+
+h5
+{
+	margin-top: 6.00pt;
+	margin-bottom: 2.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	font-weight: bold;
+}
+
+li.mc-H5
+{
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	font-weight: bold;
+}
+
+h6
+{
+	margin-top: 6.00pt;
+	margin-bottom: 2.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	font-weight: bold;
+}
+
+li.mc-H6
+{
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	font-weight: bold;
+}
+
+h6.Heading7
+{
+	margin-top: 6.00pt;
+	margin-bottom: 2.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	font-weight: bold;
+}
+
+li.mc-H6-CHeading7
+{
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	font-weight: bold;
+}
+
+h6.Heading8
+{
+	margin-top: 6.00pt;
+	margin-bottom: 2.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	font-weight: bold;
+}
+
+li.mc-H6-CHeading8
+{
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	font-weight: bold;
+}
+
+h6.Heading9
+{
+	margin-top: 6.00pt;
+	margin-bottom: 2.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	font-weight: bold;
+}
+
+li.mc-H6-CHeading9
+{
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	font-weight: bold;
+}
+
+p.Context
+{
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	margin-top: 9.00pt;
+}
+
+li.Context
+{
+	margin-top: 9.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.Bullet-1
+{
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	margin-top: 6pt;
+	margin-bottom: 0pt;
+	text-indent: -1px;
+	list-style: disc;
+	font-variant: normal;
+	margin-left: 0px;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.Bullet-1
+{
+	margin-top: 6pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	font-variant: normal;
+	margin-left: 0px;
+	list-style: circle;
+	list-style-type: circle;
+	margin-bottom: 6pt;
+	text-indent: 3px;
+	list-style-image: url('Resources/Images/roundblack.gif');
+}
+
+p.Bullet-2
+{
+	margin-top: 3.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	margin-top: 3pt;
+	margin-bottom: 0pt;
+	text-indent: -0pc;
+	margin-left: 30.00pt;
+	list-style: circle;
+}
+
+li.Bullet-2
+{
+	margin-top: 3pt;
+	margin-bottom: 0pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	text-indent: -0pc;
+	margin-left: 24px;
+	list-style: disc;
+	list-style-type: disc;
+	list-style-image: url('Resources/Images/greysquare.gif');
+	list-style-position: inside;
+}
+
+p.Num-List
+{
+	margin-left: 18.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -18.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	margin-top: 12.00pt;
+	text-indent: -1pc;
+	margin-left: 1pc;
+	margin-bottom: 0pt;
+}
+
+li.Num-List
+{
+	margin-bottom: 0pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	list-style: decimal;
+	margin-top: 3pt;
+	text-indent: -0in;
+	margin-left: 0in;
+}
+
+p.Paragraph
+{
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	margin: 10px;
+}
+
+li.Paragraph
+{
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.Reltops
+{
+	text-align: left;
+	margin-top: 2.00pt;
+	margin-bottom: 1.00pt;
+	font-size: 10pt;
+	font-weight: bold;
+	font-style: normal;
+	border-left-style: none;
+	border-right-style: none;
+	border-top-style: none;
+	border-bottom-style: none;
+	text-transform: none;
+	font-family: Tahoma, sans-serif;
+	text-decoration: none;
+	color: #0000ff;
+}
+
+li.Reltops
+{
+	margin-top: 2.00pt;
+	margin-bottom: 1.00pt;
+	text-align: left;
+	font-size: 10pt;
+	font-weight: bold;
+	font-style: normal;
+	border-left-style: none;
+	border-right-style: none;
+	border-top-style: none;
+	border-bottom-style: none;
+	text-transform: none;
+	font-family: Tahoma, sans-serif;
+	text-decoration: underline;
+	color: #a5cbf7;
+}
+
+p.Table-body
+{
+	margin-bottom: 0.00pt;
+	font-family: Tahoma;
+	margin-top: 5.00pt;
+	margin-bottom: 5.00pt;
+	text-align: left;
+	margin-top: 3.00pt;
+	list-style: disc;
+	font-size: 10pt;
+}
+
+li.Table-body
+{
+	list-style: disc;
+	margin-top: 3.00pt;
+	margin-bottom: 5.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.Table-head
+{
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	font-family: Tahoma;
+	margin-top: 5.00pt;
+	margin-bottom: 5.00pt;
+	text-align: left;
+	font-weight: bold;
+	font-size: 10pt;
+}
+
+li.Table-head
+{
+	margin-top: 5.00pt;
+	margin-bottom: 5.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-weight: bold;
+	font-size: 10.5pt;
+}
+
+p.Tip-0
+{
+	margin-left: 18.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.Tip-0
+{
+	margin-left: 18.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -18.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.Tip-1
+{
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	margin-left: 48px;
+}
+
+li.Tip-1
+{
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -18.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	margin-left: 48px;
+}
+
+p.Tip-2
+{
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -18.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	margin-left: 72px;
+}
+
+li.Tip-2
+{
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -18.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	margin-left: 72px;
+}
+
+p.Tip-3
+{
+	margin-left: 60.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -18.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.Tip-3
+{
+	margin-left: 60.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -18.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.To
+{
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	margin-top: 18.00pt;
+	font-weight: bold;
+	color: #000000;
+}
+
+li.To
+{
+	margin-top: 18.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	font-weight: bold;
+}
+
+p.toc
+{
+	margin-left: 24.00pt;
+	margin-top: 2.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.TOC
+{
+	margin-left: 24.00pt;
+	margin-top: 2.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.Topic-List
+{
+	margin-top: 2.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	margin-top: 3pt;
+	text-indent: -0in;
+	margin-left: 0in;
+	list-style: url(smallblue.gif);
+}
+
+li.Topic-List
+{
+	margin-top: 3pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	text-indent: -0in;
+	margin-left: 0in;
+	list-style: url(smallblue.gif);
+}
+
+p.footnote-text
+{
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.footnote-text
+{
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.Normal-Indent
+{
+	margin-left: 36.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.Normal-Indent
+{
+	margin-left: 36.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.Tip-Note-Heading
+{
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	font-weight: bold;
+}
+
+li.Tip-Note-Heading
+{
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	font-weight: bold;
+}
+
+p.Tip-Note-Text
+{
+	margin-left: 15.10pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.Tip-Note-Text
+{
+	margin-left: 15.10pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.Tip-Note-Text-Bulleted
+{
+	margin-left: 15.10pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -9.35pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.Tip-Note-Text-Bulleted
+{
+	margin-left: 15.10pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -9.35pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.Topic-Text-Bulleted
+{
+	margin-left: 15.10pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -9.35pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.Topic-Text-Bulleted
+{
+	margin-left: 15.10pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -9.35pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.Topic-Text-Indent
+{
+	margin-left: 15.10pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.Topic-Text-Indent
+{
+	margin-left: 15.10pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.Topic-Text-Numbered
+{
+	margin-left: 15.10pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -9.35pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.Topic-Text-Numbered
+{
+	margin-left: 15.10pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -9.35pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.Topic-Text-Onestep
+{
+	margin-left: 15.10pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -9.35pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.Topic-Text-Onestep
+{
+	margin-left: 15.10pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -9.35pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.Chapter
+{
+	margin-right: 84.00pt;
+	margin-top: 12.00pt;
+	margin-bottom: 0.00pt;
+	text-align: right;
+	line-height: 20.00pt;
+	font-family: "Swis721 Blk BT";
+	font-size: 18pt;
+}
+
+li.Chapter
+{
+	margin-right: 84.00pt;
+	margin-top: 12.00pt;
+	margin-bottom: 0.00pt;
+	text-align: right;
+	line-height: 20.00pt;
+	font-family: Swis721 Blk bt;
+	font-size: 18pt;
+}
+
+p.Code
+{
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-size: 8pt;
+	margin-top: 0.00pt;
+	font-family: "Courier New";
+	text-indent: -12pt;
+	margin-left: 12pt;
+}
+
+li.Code
+{
+	margin-top: 0.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Courier New;
+	font-size: 8pt;
+	text-indent: -12pt;
+	margin-left: 12pt;
+}
+
+p.Code-First
+{
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-size: 8pt;
+	margin-top: 12.00pt;
+	font-family: "Courier New";
+	text-indent: -12pt;
+	margin-left: 12pt;
+}
+
+li.Code-First
+{
+	margin-top: 12.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Courier New;
+	font-size: 8pt;
+	text-indent: -12pt;
+	margin-left: 12pt;
+}
+
+p.Balloon-Text
+{
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 8pt;
+}
+
+li.Balloon-Text
+{
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 8pt;
+}
+
+p.callout
+{
+	margin-top: 6.00pt;
+	margin-bottom: 6.00pt;
+	text-align: left;
+	font-family: "Swis721 BT";
+	font-size: 10pt;
+}
+
+li.callout
+{
+	margin-top: 6.00pt;
+	margin-bottom: 6.00pt;
+	text-align: left;
+	font-family: Swis721 bt;
+	font-size: 10pt;
+}
+
+p.Chapter-number
+{
+	margin-top: 66.00pt;
+	margin-bottom: 6.00pt;
+	text-align: center;
+	font-family: "Swis721 Blk BT";
+	font-size: 72pt;
+	color: #ffffff;
+}
+
+li.Chapter-number
+{
+	margin-top: 66.00pt;
+	margin-bottom: 6.00pt;
+	text-align: center;
+	font-family: Swis721 Blk bt;
+	font-size: 72pt;
+	color: #ffffff;
+}
+
+p.annotation-text
+{
+	margin-top: 0.00pt;
+	margin-bottom: 6.00pt;
+	text-align: left;
+	font-family: "Charter ITC TT";
+	font-size: 10pt;
+}
+
+li.annotation-text
+{
+	margin-top: 0.00pt;
+	margin-bottom: 6.00pt;
+	text-align: left;
+	font-family: Charter itc tt;
+	font-size: 10pt;
+}
+
+p.Document-Map
+{
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	background-color: #000080;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.Document-Map
+{
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	background-color: #000080;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.Figure
+{
+	margin-top: 2.00pt;
+	margin-bottom: 12.00pt;
+	text-align: right;
+	font-family: "Charter BT";
+	font-size: 11pt;
+}
+
+li.Figure
+{
+	margin-top: 2.00pt;
+	margin-bottom: 12.00pt;
+	text-align: right;
+	font-family: Charter bt;
+	font-size: 11pt;
+}
+
+p.Figure-caption
+{
+	margin-top: 18.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	line-height: 12.00pt;
+	font-family: "Swis721 Blk BT";
+	font-size: 10pt;
+}
+
+li.Figure-caption
+{
+	margin-top: 18.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	line-height: 12.00pt;
+	font-family: Swis721 Blk bt;
+	font-size: 10pt;
+}
+
+p.footer
+{
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.footer
+{
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.header
+{
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.header
+{
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.index-1
+{
+	margin-left: 11.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -11.00pt;
+	text-align: left;
+	font-family: "Charter BT";
+	font-size: 9pt;
+}
+
+li.index-1
+{
+	margin-left: 11.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -11.00pt;
+	text-align: left;
+	font-family: Charter bt;
+	font-size: 9pt;
+}
+
+p.index-2
+{
+	margin-left: 22.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -11.00pt;
+	text-align: left;
+	font-family: "Charter BT";
+	font-size: 9pt;
+}
+
+li.index-2
+{
+	margin-left: 22.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -11.00pt;
+	text-align: left;
+	font-family: Charter bt;
+	font-size: 9pt;
+}
+
+p.index-heading
+{
+	margin-top: 12.00pt;
+	margin-bottom: 6.00pt;
+	text-align: center;
+	font-family: "Swis721 Blk BT";
+	font-size: 11pt;
+}
+
+li.index-heading
+{
+	margin-top: 12.00pt;
+	margin-bottom: 6.00pt;
+	text-align: center;
+	font-family: Swis721 Blk bt;
+	font-size: 11pt;
+}
+
+p.toc-1
+{
+	margin-left: 96.00pt;
+	margin-top: 18.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	line-height: 14.00pt;
+	font-family: "Swis721 Blk BT";
+	font-size: 12pt;
+}
+
+li.toc-1
+{
+	margin-left: 96.00pt;
+	margin-top: 18.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	line-height: 14.00pt;
+	font-family: Swis721 Blk bt;
+	font-size: 12pt;
+}
+
+p.toc-2
+{
+	margin-left: 108.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	line-height: 12.00pt;
+	font-family: "Swis721 Blk BT";
+	font-size: 10pt;
+}
+
+li.toc-2
+{
+	margin-left: 108.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	line-height: 12.00pt;
+	font-family: Swis721 Blk bt;
+	font-size: 10pt;
+}
+
+p.Context-Char
+{
+	margin-top: 9.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.Context-Char
+{
+	margin-top: 9.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.Table-bullet
+{
+	margin-bottom: 0.00pt;
+	margin-bottom: 5.00pt;
+	text-align: left;
+	margin-bottom: 0pt;
+	font-size: 10pt;
+	font-family: Tahoma, sans-serif;
+	list-style: disc;
+	text-indent: -0px;
+	margin-left: 0px;
+	margin-top: 0pt;
+	margin-right: 00pt;
+}
+
+li.Table-bullet
+{
+	text-align: left;
+	font-size: 10pt;
+	font-family: Tahoma, sans-serif;
+	list-style: disc;
+	margin-left: 0px;
+	margin-right: 00pt;
+	margin: 0.75px;
+	margin-top: 3px;
+	margin-bottom: 3px;
+	text-indent: 2px;
+	list-style-image: url('Resources/Images/bullet_ball_glass_blue_12.png');
+}
+
+p.List-Number
+{
+	margin-left: 18.00pt;
+	margin-right: 6.50pt;
+	margin-top: 0.00pt;
+	margin-bottom: 6.00pt;
+	text-indent: -18.00pt;
+	text-align: left;
+	font-family: "Charter ITC TT";
+	font-size: 11pt;
+}
+
+li.List-Number
+{
+	margin-left: 18.00pt;
+	margin-right: 6.50pt;
+	margin-top: 0.00pt;
+	margin-bottom: 6.00pt;
+	text-indent: -18.00pt;
+	text-align: left;
+	font-family: Charter itc tt;
+	font-size: 11pt;
+}
+
+p.endnote-text
+{
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.endnote-text
+{
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.Block-Text
+{
+	margin-left: 72.00pt;
+	margin-right: 72.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 6.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.Block-Text
+{
+	margin-left: 72.00pt;
+	margin-right: 72.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 6.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.Body-Text
+{
+	margin-top: 6.00pt;
+	margin-bottom: 6.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.Body-Text
+{
+	margin-top: 6.00pt;
+	margin-bottom: 6.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.Body-Text-2
+{
+	margin-top: 6.00pt;
+	margin-bottom: 6.00pt;
+	text-align: left;
+	line-height: 24.00pt;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.Body-Text-2
+{
+	margin-top: 6.00pt;
+	margin-bottom: 6.00pt;
+	text-align: left;
+	line-height: 24.00pt;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.Body-Text-3
+{
+	margin-top: 6.00pt;
+	margin-bottom: 6.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 8pt;
+}
+
+li.Body-Text-3
+{
+	margin-top: 6.00pt;
+	margin-bottom: 6.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 8pt;
+}
+
+p.Body-Text-First-Indent
+{
+	margin-top: 6.00pt;
+	margin-bottom: 6.00pt;
+	text-indent: 10.50pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.Body-Text-First-Indent
+{
+	margin-top: 6.00pt;
+	margin-bottom: 6.00pt;
+	text-indent: 10.50pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.Body-Text-Indent
+{
+	margin-left: 18.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 6.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.Body-Text-Indent
+{
+	margin-left: 18.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 6.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.Body-Text-First-Indent-2
+{
+	margin-left: 18.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 6.00pt;
+	text-indent: 10.50pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.Body-Text-First-Indent-2
+{
+	margin-left: 18.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 6.00pt;
+	text-indent: 10.50pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.Body-Text-Indent-2
+{
+	margin-left: 18.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 6.00pt;
+	text-align: left;
+	line-height: 24.00pt;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.Body-Text-Indent-2
+{
+	margin-left: 18.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 6.00pt;
+	text-align: left;
+	line-height: 24.00pt;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.Body-Text-Indent-3
+{
+	margin-left: 18.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 6.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 8pt;
+}
+
+li.Body-Text-Indent-3
+{
+	margin-left: 18.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 6.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 8pt;
+}
+
+p.caption
+{
+	margin-top: 6.00pt;
+	margin-bottom: 6.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	font-weight: bold;
+}
+
+li.caption
+{
+	margin-top: 6.00pt;
+	margin-bottom: 6.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	font-weight: bold;
+}
+
+p.Closing
+{
+	margin-left: 216.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.Closing
+{
+	margin-left: 216.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.Date
+{
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.Date
+{
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.E-mail-Signature
+{
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.E-mail-Signature
+{
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.envelope-address
+{
+	margin-left: 144.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Arial;
+	font-size: 12pt;
+}
+
+li.envelope-address
+{
+	margin-left: 144.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Arial;
+	font-size: 12pt;
+}
+
+p.envelope-return
+{
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Arial;
+	font-size: 10pt;
+}
+
+li.envelope-return
+{
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Arial;
+	font-size: 10pt;
+}
+
+p.HTML-Address
+{
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	font-style: italic;
+}
+
+li.HTML-Address
+{
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	font-style: italic;
+}
+
+p.HTML-Preformatted
+{
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: "Courier New";
+	font-size: 10pt;
+}
+
+li.HTML-Preformatted
+{
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Courier New;
+	font-size: 10pt;
+}
+
+p.index-3
+{
+	margin-left: 30.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -10.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.index-3
+{
+	margin-left: 30.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -10.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.index-4
+{
+	margin-left: 40.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -10.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.index-4
+{
+	margin-left: 40.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -10.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.index-5
+{
+	margin-left: 50.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -10.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.index-5
+{
+	margin-left: 50.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -10.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.index-6
+{
+	margin-left: 60.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -10.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.index-6
+{
+	margin-left: 60.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -10.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.index-7
+{
+	margin-left: 70.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -10.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.index-7
+{
+	margin-left: 70.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -10.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.index-8
+{
+	margin-left: 80.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -10.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.index-8
+{
+	margin-left: 80.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -10.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.index-9
+{
+	margin-left: 90.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -10.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.index-9
+{
+	margin-left: 90.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -10.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.List
+{
+	margin-left: 18.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -18.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.List
+{
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	list-style: decimal;
+	text-indent: -0pt;
+	margin-left: 0pt;
+	margin-top: 2pt;
+	margin-bottom: 2pt;
+}
+
+p.List-2
+{
+	margin-left: 36.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -18.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.List-2
+{
+	margin-left: 36.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -18.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.List-3
+{
+	margin-left: 54.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -18.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.List-3
+{
+	margin-left: 54.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -18.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.List-4
+{
+	margin-left: 72.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -18.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.List-4
+{
+	margin-left: 72.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -18.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.List-5
+{
+	margin-left: 90.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -18.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.List-5
+{
+	margin-left: 90.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -18.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.List-Bullet
+{
+	margin-left: 18.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -18.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.List-Bullet
+{
+	margin-left: 18.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -18.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.List-Bullet-2
+{
+	margin-left: 36.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -18.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.List-Bullet-2
+{
+	margin-left: 36.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -18.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.List-Bullet-3
+{
+	margin-left: 54.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -18.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.List-Bullet-3
+{
+	margin-left: 54.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -18.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.List-Bullet-4
+{
+	margin-left: 72.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -18.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.List-Bullet-4
+{
+	margin-left: 72.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -18.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.List-Bullet-5
+{
+	margin-left: 90.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -18.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.List-Bullet-5
+{
+	margin-left: 90.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -18.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.List-Continue
+{
+	margin-left: 18.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 6.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.List-Continue
+{
+	margin-left: 18.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 6.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.List-Continue-2
+{
+	margin-left: 36.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 6.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.List-Continue-2
+{
+	margin-left: 36.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 6.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.List-Continue-3
+{
+	margin-left: 54.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 6.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.List-Continue-3
+{
+	margin-left: 54.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 6.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.List-Continue-4
+{
+	margin-left: 72.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 6.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.List-Continue-4
+{
+	margin-left: 72.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 6.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	list-style-image: url('Resources/Images/bullet_ball_glass_blue.jpg');
+}
+
+p.List-Continue-5
+{
+	margin-left: 90.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 6.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.List-Continue-5
+{
+	margin-left: 90.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 6.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.List-Number-2
+{
+	margin-left: 36.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -18.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.List-Number-2
+{
+	margin-left: 36.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -18.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.List-Number-3
+{
+	margin-left: 54.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -18.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.List-Number-3
+{
+	margin-left: 54.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -18.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.List-Number-4
+{
+	margin-left: 72.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -18.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.List-Number-4
+{
+	margin-left: 72.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -18.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.List-Number-5
+{
+	margin-left: 90.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -18.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+li.List-Number-5
+{
+	margin-left: 90.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -18.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+p.macro
+{
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: "Courier New";
+	font-size: 10pt;
+}
+
+li.macro
+{
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Courier New;
+	font-size: 10pt;
+}
+
+p.Message-Header
+{
+	margin-left: 54.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -54.00pt;
+	text-align: left;
+	background-color: #cccccc;
+	font-family: Arial;
+	font-size: 12pt;
+}
+
+li.Message-Header
+{
+	margin-left: 54.00pt;
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: -54.00pt;
+	text-align: left;
+	background-color: #cccccc;
+	font-family: Arial;
+	font-size: 12pt;
+}
+
+li._step1
+{
+	font-family: Tahoma;
+	font-family: Tahoma, Webdings, Webdings, Webdings, Webdings, Webdings, Webdings, Webdings, Webdings, Webdings, Webdings, Arial, Helvetica, sans-serif;
+	text-align: left;
+	font-size: 10pt;
+	margin-left: 0;
+	list-style: decimal;
+	line-height: 12.00pt;
+	margin-bottom: 12.00pt;
+	margin-top: 12.00pt;
+}
+
+li._step2
+{
+	margin-left: 18.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	text-indent: 0;
+	list-style-type: lower-alpha;
+	list-style: lower-alpha;
+	line-height: 12.00pt;
+	margin-top: 12.00pt;
+	margin-bottom: 12.00pt;
+}
+
+li._step2_Indent
+{
+	margin-top: 6.00pt;
+	margin-bottom: 6.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	text-indent: 0;
+	margin-left: 12.00pt;
+}
+
+p._step2_result
+{
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-indent: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	margin-left: 48.00pt;
+}
+
+p._step1_result
+{
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	margin-left: 25.00pt;
+	text-indent: 00.00pt;
+}
+
+p._intro_top
+{
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	margin-top: 9.00pt;
+}
+
+p._note
+{
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	margin-bottom: 0;
+	margin-top: 9pt;
+	margin-left: 110px;
+	text-indent: -80px;
+}
+
+p._step2_Indent
+{
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	text-indent: 0;
+	margin-left: 48.00pt;
+	margin-bottom: 6.00pt;
+	margin-top: 6.00pt;
+}
+
+p._step1_Indent
+{
+	margin-top: 6.00pt;
+	margin-bottom: 6.00pt;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 10pt;
+	text-indent: 0;
+	margin-left: 30.00pt;
+}
+
+li._bullet1
+{
+	font-family: Tahoma;
+	font-family: Tahoma, Webdings, Webdings, Webdings, Webdings, Webdings, Webdings, Webdings, Webdings, Webdings, Webdings, Arial, Helvetica, sans-serif;
+	text-align: left;
+	font-size: 10pt;
+	margin-left: 18.00pt;
+	margin-bottom: 12.00pt;
+	margin-top: 12.00pt;
+	list-style: disc;
+}
+
+p._Table-body
+{
+	margin-bottom: 0.00pt;
+	font-family: Tahoma;
+	margin-top: 5.00pt;
+	margin-bottom: 5.00pt;
+	text-align: left;
+	margin-top: 3.00pt;
+	list-style: disc;
+	font-size: 10pt;
+}
+
+p._Table-heading
+{
+	margin-bottom: 0.00pt;
+	font-family: Tahoma;
+	margin-top: 5.00pt;
+	margin-bottom: 5.00pt;
+	margin-top: 3.00pt;
+	list-style: disc;
+	font-size: 10pt;
+	text-align: center;
+}
+
+li._Table-bullet1
+{
+	font-family: Tahoma;
+	font-family: Tahoma, Webdings, Webdings, Webdings, Webdings, Webdings, Webdings, Webdings, Webdings, Webdings, Webdings, Arial, Helvetica, sans-serif;
+	text-align: left;
+	font-size: 10pt;
+	list-style-type: circle;
+	list-style: circle;
+}
+
+li._bullet2
+{
+	font-family: Tahoma;
+	font-family: Tahoma, Webdings, Webdings, Webdings, Webdings, Webdings, Webdings, Webdings, Webdings, Webdings, Webdings, Arial, Helvetica, sans-serif;
+	text-align: left;
+	font-size: 10pt;
+	list-style: circle;
+	margin-bottom: 12.00pt;
+	margin-top: 12.00pt;
+	margin-left: 30.00pt;
+}
+
+MadCap|helpControlMenuItem.Highlighted
+{
+	background-color: #000000;
+}
+
+p.__NumLevel1First
+{
+	mc-auto-number-position: outside-head;
+	margin-right: 0.5in;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	mc-auto-number-offset: 0.5in;
+	mc-next-class: NumLevel1Plus;
+	mc-auto-number-format: '{n=1}.';
+	margin-left: 0.65in;
+}
+
+p.__NumLevel1Plus
+{
+	mc-auto-number-position: outside-head;
+	margin-right: 0.5in;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	mc-auto-number-offset: 0.5in;
+	mc-auto-number-format: '{n+1}.';
+	margin-left: 0.65in;
+}
+
+p.__NumIndentL1
+{
+	mc-auto-number-format: '{ }';
+	margin-right: 0.5in;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	mc-auto-number-offset: 0.5in;
+	margin-left: 0.65in;
+}
+
+p.__NumLevel2First
+{
+	mc-auto-number-position: outside-head;
+	mc-auto-number-offset: 0.5in;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	margin-right: 1in;
+	margin-left: 1in;
+	mc-next-class: NumLevel2Plus;
+	mc-auto-number-format: '{n}.{n=1}.';
+}
+
+p.__NumLevel2Plus
+{
+	mc-auto-number-position: outside-head;
+	mc-auto-number-offset: 0.5in;
+	margin-left: 1in;
+	margin-right: 1in;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	mc-auto-number-format: '{n}.{n+}.';
+}
+
+p.__NumIndentL2
+{
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	mc-auto-number-offset: 1in;
+	mc-auto-number-position: outside-head;
+	margin-right: 1in;
+	margin-left: 1in;
+	mc-auto-number-format: '{ }{ }';
+}
+
+p.__NumLevel3First
+{
+	mc-auto-number-position: outside-head;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	margin-left: 1.75in;
+	margin-right: 1.75in;
+	mc-auto-number-offset: 0.75in;
+	mc-next-class: NumLevel3Plus;
+	mc-auto-number-format: '{n}.{n}.{n=1}.';
+}
+
+p.__NumLevel3Plus
+{
+	margin-left: 1.75in;
+	margin-right: 1.75in;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	mc-auto-number-position: outside-head;
+	mc-auto-number-offset: 0.75in;
+	mc-auto-number-format: '{n}.{n}.{n+}.';
+}
+
+p.__NumIndentL3
+{
+	margin-right: 1.75in;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	mc-auto-number-position: outside-head;
+	mc-auto-number-offset: 0.75in;
+	mc-auto-number-format: '{ }{ }{ }';
+	margin-left: 1.3in;
+}
+
+p.__Numroman2First
+{
+	mc-auto-number-position: outside-head;
+	margin-right: 1in;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	mc-auto-number-offset: 0.30in;
+	mc-next-class: Numroman2Plus;
+	mc-auto-number-format: 'B:{r=1}.';
+	margin-left: 1.3in;
+}
+
+p.__Numroman2Plus
+{
+	mc-auto-number-position: outside-head;
+	margin-right: 1in;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	mc-auto-number-offset: 0.3in;
+	mc-auto-number-format: 'B:{r+1}.';
+	margin-left: 1.3in;
+}
+
+p.__Numroman2UnNum
+{
+	mc-auto-number-position: outside-head;
+	margin-left: 1.00in;
+	margin-right: 1in;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	mc-auto-number-offset: 0.3in;
+	mc-auto-number-format: 'B:{}.';
+}
+
+p.__NumTab1
+{
+	mc-auto-number-position: outside-head;
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: 0.5in;
+	mc-auto-number-format: 'C:{n+}';
+	mc-auto-number-offset: 0.3in;
+}
+
+p.__NumTab1
+{
+	mc-auto-number-position: outside-head;
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: 0.5in;
+	mc-auto-number-offset: 0.3in;
+	mc-next-class: NumTab2;
+	mc-auto-number-format: 'D:{n=1}.';
+}
+
+p.__NumTab2
+{
+	mc-auto-number-position: outside-head;
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: 0.5in;
+	mc-auto-number-offset: 0.3in;
+	mc-auto-number-format: 'D:{n+}.';
+}
+
+p.__NumTabUnNum
+{
+	mc-auto-number-position: outside-head;
+	margin-left: 1.00in;
+	margin-right: 1in;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	mc-auto-number-offset: 0.3in;
+	mc-auto-number-format: 'D:{}.';
+}
+
+p.__ChapterNumber
+{
+	color: #47484a;
+	font-family: 'Century Gothic';
+	font-size: 12pt;
+	font-weight: bold;
+	line-height: 14pt;
+	margin-bottom: 0;
+	mc-auto-number-position: inside-head;
+	mc-auto-number-format: 'CH:CHAPTER {chapnum}';
+	mc-heading-level: 4;
+}
+
+p.__Figure
+{
+	font-style: italic;
+	mc-auto-number-class: FigNum;
+	mc-auto-number-format: 'CF:Figure {n+} : ';
+	margin-left: 10px;
+	padding-bottom: 10px;
+}
+
+span.__FigNum
+{
+	color: #007DBA;
+	font-style: normal;
+}
+
+p.__FigureChap
+{
+	color: 007DBA;
+	font-style: italic;
+	mc-auto-number-class: FigNum;
+	mc-auto-number-format: 'CF:Figure {chapnum}.{n+}: ';
+	margin-left: 10px;
+	padding-bottom: 10px;
+}
+
+div.____imagefloatright
+{
+	float: right;
+	clear: right;
+}
+
+div.____captionfloatright
+{
+	mc-auto-number-format: 'CF:Figure {n+}:  ';
+}
+
+p.__TableCaption
+{
+	color: #404040;
+	font-style: italic;
+	mc-auto-number-class: TableNum;
+	mc-auto-number-format: 'CT:Table {chapnum}-{n+} ';
+	padding-bottom: 0;
+	padding-top: 12px;
+}
+
+span.__TableNum
+{
+	color: #007DBA;
+	font-style: normal;
+}
+
+p.__TableCaptionFirst
+{
+	color: #404040;
+	font-style: italic;
+	mc-auto-number-class: TableNum;
+	padding-bottom: 0;
+	padding-top: 12px;
+	mc-auto-number-format: 'CT:Table {chapnum}-{n=1} ';
+}
+
+p.__TableCaptionFollow
+{
+	color: #404040;
+	font-style: italic;
+	mc-auto-number-class: TableNum;
+	padding-bottom: 0;
+	padding-top: 12px;
+	mc-auto-number-format: 'CT:Table {chapnum}-{n+1} ';
+}
+
+p.__Numalpha2First
+{
+	mc-auto-number-position: outside-head;
+	margin-left: 1in;
+	margin-right: 1in;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	mc-auto-number-offset: 0.30in;
+	mc-next-class: Numroman2Plus;
+	mc-auto-number-format: 'E:{a=1}.';
+}
+
+p.__Numalpha2Plus
+{
+	mc-auto-number-position: outside-head;
+	margin-left: 1.00in;
+	margin-right: 1in;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	mc-auto-number-offset: 0.3in;
+	mc-auto-number-format: 'E:{a+1}.';
+}
+
+li._bullet3
+{
+	font-family: Tahoma;
+	font-family: Tahoma, Webdings, Webdings, Webdings, Webdings, Webdings, Webdings, Webdings, Webdings, Webdings, Webdings, Arial, Helvetica, sans-serif;
+	text-align: left;
+	font-size: 10pt;
+	list-style: circle;
+	margin-bottom: 12.00pt;
+	margin-top: 12.00pt;
+	margin-left: 60.00pt;
+}
+
+hr.indentNote
+{
+	margin-left: 40pt;
+}
+
+MadCap|dropDownHead
+{
+	font-size: 14;
+	font-family: Tahoma;
+}
+
+MadCap|dropDownHotspot
+{
+	font-size: 14;
+	font-family: Tahoma;
+}
+
+p.__Caution_NumIndentL1
+{
+	background-color: #ffcccb;
+	border-left: solid 4px #8b0000;
+	line-height: 18px;
+	mc-auto-number-format: '{b}Caution: {/b}';
+	overflow: hidden;
+	padding: 12px;
+	margin-right: 0.5in;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	mc-auto-number-offset: 0.5in;
+	margin-left: 0.65in;
+}
+
+div.__Caution_NumIndentL1
+{
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	background-color: #ffcccb;
+	border: solid 1px #8b0000;
+	border-left: solid 4px #8b0000;
+	border-radius: 6px;
+	line-height: 18px;
+	mc-auto-number-format: '{b}Caution: {/b}';
+	overflow: hidden;
+	padding: 12px;
+	margin-right: 0.5in;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	mc-auto-number-offset: 0.5in;
+	margin-left: 0.65in;
+}
+
+div.__Note_NumIndentL1
+{
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	background-color: #f0f7fb;
+	border: solid 1px #3498db;
+	border-left: solid 4px #3498db;
+	border-radius: 6px;
+	line-height: 18px;
+	mc-auto-number-format: '{b}Note: {/b}';
+	overflow: hidden;
+	padding: 12px;
+	margin-right: 0.5in;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	mc-auto-number-offset: 0.5in;
+	margin-left: 0.65in;
+}
+
+p.__Note_NumIndentL1
+{
+	background-color: #f0f7fb;
+	border-left: solid 4px #3498db;
+	line-height: 18px;
+	mc-auto-number-format: '{b}Note: {/b}';
+	overflow: hidden;
+	padding: 12px;
+	margin-right: 0.5in;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	mc-auto-number-offset: 0.5in;
+	margin-left: 0.65in;
+}
+
+p._dropdownhead
+{
+	margin-top: 6.00pt;
+	margin-bottom: 0.00pt;
+	font-family: Tahoma;
+	font-family: Tahoma, Webdings, Webdings, Webdings, Webdings, Webdings, Webdings, Webdings, Webdings, Webdings, Webdings, Arial, Helvetica, sans-serif;
+	text-align: left;
+	margin-top: 6pt;
+	margin-bottom: 0pt;
+	font-size: 10pt;
+	font-weight: 24;
+}
+
+i.dropdown
+{
+	margin-bottom: 0.00pt;
+	text-align: left;
+	font-size: 16pt;
+	margin-top: 0.00pt;
+	font-family: 'Arial Narrow';
+	color: #696969;
+}
+
+i.dropdown_reltopic
+{
+	text-align: left;
+	font-size: 14pt;
+	font-family: 'Arial Narrow';
+	color: #0000ff;
+	margin-top: 24.00pt;
+	margin-bottom: 24.00pt;
+}
+
+i.dropdown_smallfont
+{
+	text-align: left;
+	font-size: 10pt;
+	font-family: 'Arial Narrow';
+	margin-top: 24.00pt;
+	margin-bottom: 24.00pt;
+	color: #696969;
+}
+
+MadCap|conceptLink
+{
+	color: blue;
+	mc-help-control-display: list;
+	mc-label: ' ';
+}
+
+MadCap|conceptLink:hover
+{
+	color: navy;
+}
+
+MadCap|relatedTopics
+{
+	mc-help-control-display: popup;
+	mc-label: 'Related Topics';
+	mc-image: url('Resources/Images/link.gif');
+	mc-image-position: none;
+	mc-image-spacing: auto;
+	mc-image-alt-text: ;
+}
+
+MadCap|expanding
+{
+	mc-closed-image: url('../Images/2017-12-19_1006.png');
+	mc-open-image: url('../Images/2017-11-14_1405.png');
+}
+
